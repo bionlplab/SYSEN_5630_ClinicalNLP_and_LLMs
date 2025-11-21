@@ -1,5 +1,5 @@
 **Instructor**: Yifan Peng ([yip4002@med.cornell.edu](yip4002@med.cornell.edu))<br>
-**Time**: Jan. 20, 2026 - May 5, 2025, 5:00-6:15 pm East Time on Tuesdays and Thursdays<br>
+**Time**: Jan. 20, 2026 - May 5, 2026, 5:00-6:15 pm East Time on Tuesdays and Thursdays<br>
 **Location**: Remote<br>
 **TA**: Matthew Ma <ham7026@med.cornell.edu>, Geoffrey Martin <ghm58@cornell.edu><br>
 **Grading**: Letter grade
